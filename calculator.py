@@ -7,7 +7,6 @@ def subtract(a, b):
 
 def multiply(a,b):
 	return a*b
-	##!!!!!
-##to learn how to merge#####
-def divide_premium(a,b):
+
+def divide_new(a,b):
 	return a/b
